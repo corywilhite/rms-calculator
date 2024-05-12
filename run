@@ -1,0 +1,1 @@
+swift ./rms_calculator.swift --path ~/Desktop/sampletest --output ~/Desktop/rms_sample_info.csv
